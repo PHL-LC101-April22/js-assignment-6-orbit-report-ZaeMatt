@@ -1,5 +1,5 @@
 export class Satellite {
-
+	
 	name: string;
 	type: string;
 	launchDate: string;
@@ -20,5 +20,6 @@ export class Satellite {
 
 
 }
+
 
 // TODO 3a: fix isSpaceDebris check
